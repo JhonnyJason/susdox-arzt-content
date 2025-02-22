@@ -1,0 +1,69 @@
+{
+    "languageTag": "de",
+    "pageTitle": "SusDoX Arzt",
+    "pageLocale": "de_DE",
+    "pageURL": "/",
+    "pageDescription": "Dies ist die neue SusDoX APP für Ärzte um den Login zu speichern und Untersuchungen einzusehen.",
+    "pageImageURL": "https://susdox-arzt.bilder-befunde.at/img/icon.png",
+    "pageType": "website",
+    "sharedContent": {
+    },
+    "content": {
+        "footerAddressLine": "SustSol GmbH - 8044 Graz, Mariatroster Strasse 378b/7",
+        "addCodeButtonText": "Anmelden",
+        "requestCodeButtonText": "Code anfordern?",
+        "acceptButtonText": "Abschicken",
+        "acceptButtonRequestText": "Anfordern",
+        "loginVPNLabel": "VPN",
+        "loginUsernameLabel": "Benutzername",
+        "loginPasswordLabel": "Passwort",
+        "requestCodePhoneLabel": "Telefonnummer",
+        "showCodeButtonText": "Code anzeigen",
+        "invalidCodeInfoText": "Dieser Code ist ungültig!",
+        "centerbuttonText": "Meine Untersuchungen",
+
+        "noScreeningsInfoText": "Es wurden keine Untersuchungen gefunden.",
+        "networkErrorScreeningsText": "<b>Es ist ein Netzwerkproblem aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
+        "authErrorScreeningsText": "<b>Ihr Code ist ungültig!</b><br>Wir konnten keine Untersuchungen anfragen.",
+        "miscErrorScreeningsText": "<b>Es ist ein allgemeiner Fehler aufgetreten!</b><br> Wir konnten keine Untersuchungen anfragen!",
+
+        "menuLoginLabel": "Anmelden",
+        "menuMoreInfoLabel": "Mehr Info",
+        "menuLogoutLabel": "Abmelden",
+        "unnamedText": "Unbenannt",
+        "menuPWAInstallLabel": "Als App installieren",
+        "menuPWAInstallSubtext": "Dies benötigt keinen zusätzlichen Speicherplatz.",
+
+        "modalCancelButtonText": "Abbrechen",
+
+        "logoutmodalTitle": "Achtung!",
+        "logoutmodalMessage": "Bitte bestätigen Sie die Abmeldung.<br><br>Die Zugangsdaten werden dadurch unwiderruflich von diesem Gerät gelöscht.",
+        "acceptLogoutButtonText": "Löschen",
+
+        "invalidcodemodalTitle": "Achtung!",
+        "invalidcodemodalMessage": "Der Code dieses Benutzers ist ungültig! Mit diesem Code ist kein Login mehr möglich.<br> Wollen Sie diesen Code von ihrem Gerät löschen?",
+        "invalidcodemodalMessageTemplate": "Der Code von <b>{{{label}}}</b> ist ungültig!<br><br>Mit diesem Code ist kein Login mehr möglich.<br>Sie können diese Meldung ignorieren, den Code löschen oder ihn aktualisieren falls Sie bereits einen neuen Code erhalten haben.",
+        "invalidcodemodalUpdateButtonText": "Aktualisieren",
+        "deleteInvalidCodeButtonText": "Löschen",
+        "invalidcodemodalCancelButtonText": "Ignorieren",
+
+        "howtoIOSLine1": "Drücken sie den Icon",
+        "howtoIOSLine2": "Dann 'Zum Home-Bildschirm'",
+        "howtoIOSHint": "Hinweis: Sie müssen im Safari sein.",
+
+        "howtoSamsungLine1": "Drücken sie den Icon",
+        "howtoSamsungLine2": "Dann 'Zum Home-Bildschirm'",
+
+        "usernamedisplayPlaceholderText": "Hier Name eingeben...",
+
+        "codeverificationMessage": "Bitte bestätigen Sie mit Ihrem Geburtsdatum.",
+        "usercodeverificationButtonText": "Bestätigen",
+        
+        "invalidUserErrorFeedback": "Die Eingaben sind ungültig.",
+        "networkErrorFeedback": "Ein Netzwerkproblem ist aufgetreten.",
+        "inputErrorFeedback": "Bitte überprüfen Sie Ihre Eingaben.",
+        "confirmationInputErrorFeedback": "Bitte überprüfen Sie ihre Angabe.",
+        "invalidTokenErrorFeedback": "Ihr Link ist ungültig.",
+        "expiredTokenErrorFeedback": "Ihr Link ist abgelaufen."
+    }
+}
