@@ -4,7 +4,7 @@
     "pageLocale": "de_DE",
     "pageURL": "/",
     "pageDescription": "Dies ist die neue SusDoX APP für Ärzte um den Login zu speichern und Untersuchungen einzusehen.",
-    "pageImageURL": "https://susdox-arzt.bilder-befunde.at/img/icon.png",
+    "pageImageURL": "https://pwa-arzt.bilder-befunde.at/img/icon.png",
     "pageType": "website",
     "sharedContent": {
     },
